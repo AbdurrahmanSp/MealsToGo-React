@@ -6,8 +6,9 @@
 - Reusable functions
 - Folder structure (API, components, views)
 
-## Bulit with
+### Bulit with:
 - ReactJS
+- CSS Modules
 - Firebase
 
 ### Available commands:
